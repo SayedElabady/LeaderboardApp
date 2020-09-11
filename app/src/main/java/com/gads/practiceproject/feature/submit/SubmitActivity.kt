@@ -40,7 +40,7 @@ class SubmitActivity : AppCompatActivity() {
                         email_et.text.toString(),
                         github_link_et.text.toString()
                     )
-                }
+                }.show()
         }
 
     }

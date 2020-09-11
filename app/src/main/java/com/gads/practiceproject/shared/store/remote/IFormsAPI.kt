@@ -5,5 +5,5 @@ import io.reactivex.Single
 
 interface IFormsAPI{
 
-    fun submitProject(payload: SubmitProjectPayload): Single<Void>
+    fun submitProject(payload: SubmitProjectPayload): Single<Unit>
 }
