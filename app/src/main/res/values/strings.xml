@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeaderboardApp</string>
+    <string name="hours_country_placeholder">%d learning hours, %s</string>
+    <string name="score_country_placeholder">%d skill IQ score, %s</string>
+    <string name="submit">Submit</string>
+    <string name="project_on_github_hint">Project on Github (link)</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="first_name_hint">First name</string>
+
+</resources>
